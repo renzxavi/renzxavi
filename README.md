@@ -1,8 +1,6 @@
-const renzxavi = {
-  👋: "Hi, I’m @renzxavi",
-  💻: "Programmer at Assessmas",
-  👀: "Exploring Data Science",
-  🌱: "Learning something new every day...",
-  💞️: "Open to collaborate on cool projects & world domination 🌍😈",
-  📫: "Reach me if (coffee) => code ☕"
-};
+👋 Hi, I’m @renzxavi  
+💻 Programmer at Assessmas  
+👀 Exploring Data Science  
+🌱 Learning something new every day...  
+💞️ Open to collaborate on cool projects & world domination 🌍😈  
+📫 Reach me if (coffee) => code ☕
