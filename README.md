@@ -1,6 +1,4 @@
-/**
- * README.md — Human v1.0
- */
+/*** README.md — Human v1.0 ***/
 
 const renzxavi = {
   greeting: "👋 Hi, I’m @renzxavi",
