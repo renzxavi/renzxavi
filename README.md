@@ -1,3 +1,4 @@
+```js
 const renzxavi = {
   👋: "Hi, I’m @renzxavi",
   💻: "Programmer & Teacher",
@@ -6,3 +7,4 @@ const renzxavi = {
   💞️: "Open to collaborate on cool projects & world domination 🌍😈",
   📫: "Reach me if (coffee) => code ☕"
 };
+```
