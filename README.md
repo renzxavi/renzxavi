@@ -1,4 +1,4 @@
-Hi there 👋
+Hi there!
+Psychologist and Full-Stack Developer passionate about creating meaningful digital experiences that combine technology with human-centered thinking. I work across the entire software development lifecycle—from frontend to backend—and enjoy tackling complex challenges that deliver real-world impact.
 
-Psychologist and full-stack developer passionate about crafting meaningful digital experiences. I work across the entire development lifecycle — from frontend to backend — and thrive on complex challenges that generate real-world impact. Beyond development, I teach computer science and continuously explore emerging technologies. I design, organize, and facilitate training workshops in computer science and robotics aimed at children, fostering early interest in technology and problem-solving skills. I also teach Database Systems and provide academic support to students in the Analista Programador program, awarded by Universidad CLAEH. Additionally, I deliver talks and workshops on technology topics, with a special focus on artificial intelligence, promoting awareness and practical understanding of its applications.
-
+Beyond software development, I am actively involved in education and technology outreach. I teach Computer Science and Database Systems, provide academic support to students in the Analista Programador program at Universidad CLAEH, and continuously explore emerging technologies.
