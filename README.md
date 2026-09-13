@@ -1,3 +1,3 @@
 About meee!
 
-github.com/renzxavi/Aboutme
+github.com/renzxavi/aboutme
