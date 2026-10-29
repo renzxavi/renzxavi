@@ -1,1 +1,1 @@
-[About me](https://renzxavi.github.io/aboutme/)
+[About me](https://aboutme-smoky-one.vercel.app/)
